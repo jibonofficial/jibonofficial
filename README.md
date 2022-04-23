@@ -15,7 +15,8 @@ I have some knowledge on backend development with NodeJS + Express and I'm also 
 ✅ NextJS <br>
 ✅ TypeScript <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
-✅ NodeJS / ExpressJS / MongoDB <br>
+✅ NodeJS / ExpressJS / MongoDB 
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibonofficial)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
